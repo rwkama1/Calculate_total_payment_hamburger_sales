@@ -1,0 +1,16 @@
+{
+  "name": "calculate_total_payment_hamburger_sales",
+  "version": "1.0.0",
+  "description": "Calculate total payment for hamburger sales",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Calculate_total_payment_hamburger_sales"
+  },
+ 
+  "keywords": ["js","javascript","sales","burger","total","calculate","sale","calculation","card","cash"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
